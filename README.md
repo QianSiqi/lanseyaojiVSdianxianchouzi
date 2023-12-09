@@ -1,2 +1,2 @@
-# lanseyaojiVSdianxianchouzi
+# 蓝色妖姬VS电线抽子
 源代码无了，只剩下EXE了
